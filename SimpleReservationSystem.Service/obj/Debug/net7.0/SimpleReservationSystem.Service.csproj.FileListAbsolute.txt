@@ -1,0 +1,17 @@
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/bin/Debug/net7.0/SimpleReservationSystem.Service.deps.json
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/bin/Debug/net7.0/SimpleReservationSystem.Service.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/bin/Debug/net7.0/SimpleReservationSystem.Service.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/bin/Debug/net7.0/SimpleReservationSystem.Model.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/bin/Debug/net7.0/SimpleReservationSystem.Repository.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/bin/Debug/net7.0/SimpleReservationSystem.Model.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/bin/Debug/net7.0/SimpleReservationSystem.Repository.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/Debug/net7.0/SimpleReservationSystem.Service.csproj.AssemblyReference.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/Debug/net7.0/SimpleReservationSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/Debug/net7.0/SimpleReservationSystem.Service.AssemblyInfoInputs.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/Debug/net7.0/SimpleReservationSystem.Service.AssemblyInfo.cs
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/Debug/net7.0/SimpleReservationSystem.Service.csproj.CoreCompileInputs.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/Debug/net7.0/SimpleReservationSystem.Service.csproj.CopyComplete
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/Debug/net7.0/SimpleReservationSystem.Service.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/Debug/net7.0/refint/SimpleReservationSystem.Service.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/Debug/net7.0/SimpleReservationSystem.Service.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/Debug/net7.0/ref/SimpleReservationSystem.Service.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wEmptK1wxIoy5KCYLyZXV99BMnvkwkj+hdhoggsrbbs=",
+  "Source": "SimpleReservationSystem.Api",
+  "BasePath": "_content/SimpleReservationSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

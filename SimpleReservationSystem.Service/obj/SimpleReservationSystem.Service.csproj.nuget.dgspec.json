@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/SimpleReservationSystem.Service.csproj": {}
+  },
+  "projects": {
+    "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/SimpleReservationSystem.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/SimpleReservationSystem.Model.csproj",
+        "projectName": "SimpleReservationSystem.Model",
+        "projectPath": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/SimpleReservationSystem.Model.csproj",
+        "packagesPath": "/Users/edson.costa/.nuget/packages/",
+        "outputPath": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edson.costa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/edson.costa/.dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/SimpleReservationSystem.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/SimpleReservationSystem.Repository.csproj",
+        "projectName": "SimpleReservationSystem.Repository",
+        "projectPath": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/SimpleReservationSystem.Repository.csproj",
+        "packagesPath": "/Users/edson.costa/.nuget/packages/",
+        "outputPath": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edson.costa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/SimpleReservationSystem.Model.csproj": {
+                "projectPath": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/SimpleReservationSystem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.0-preview.3.23174.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/edson.costa/.dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/SimpleReservationSystem.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/SimpleReservationSystem.Service.csproj",
+        "projectName": "SimpleReservationSystem.Service",
+        "projectPath": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/SimpleReservationSystem.Service.csproj",
+        "packagesPath": "/Users/edson.costa/.nuget/packages/",
+        "outputPath": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edson.costa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/SimpleReservationSystem.Model.csproj": {
+                "projectPath": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/SimpleReservationSystem.Model.csproj"
+              },
+              "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/SimpleReservationSystem.Repository.csproj": {
+                "projectPath": "/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/SimpleReservationSystem.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/edson.costa/.dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

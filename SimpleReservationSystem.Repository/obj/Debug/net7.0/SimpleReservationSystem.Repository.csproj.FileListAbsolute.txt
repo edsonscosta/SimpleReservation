@@ -1,0 +1,15 @@
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/bin/Debug/net7.0/SimpleReservationSystem.Repository.deps.json
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/bin/Debug/net7.0/SimpleReservationSystem.Repository.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/bin/Debug/net7.0/SimpleReservationSystem.Repository.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/bin/Debug/net7.0/SimpleReservationSystem.Model.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/bin/Debug/net7.0/SimpleReservationSystem.Model.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/Debug/net7.0/SimpleReservationSystem.Repository.csproj.AssemblyReference.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/Debug/net7.0/SimpleReservationSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/Debug/net7.0/SimpleReservationSystem.Repository.AssemblyInfoInputs.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/Debug/net7.0/SimpleReservationSystem.Repository.AssemblyInfo.cs
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/Debug/net7.0/SimpleReservationSystem.Repository.csproj.CoreCompileInputs.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/Debug/net7.0/SimpleReservationSystem.Repository.csproj.CopyComplete
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/Debug/net7.0/SimpleReservationSystem.Repository.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/Debug/net7.0/refint/SimpleReservationSystem.Repository.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/Debug/net7.0/SimpleReservationSystem.Repository.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Repository/obj/Debug/net7.0/ref/SimpleReservationSystem.Repository.dll

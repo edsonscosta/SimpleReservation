@@ -1,0 +1,12 @@
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/bin/Debug/net7.0/SimpleReservationSystem.Model.deps.json
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/bin/Debug/net7.0/SimpleReservationSystem.Model.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/bin/Debug/net7.0/SimpleReservationSystem.Model.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/obj/Debug/net7.0/SimpleReservationSystem.Model.csproj.AssemblyReference.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/obj/Debug/net7.0/SimpleReservationSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/obj/Debug/net7.0/SimpleReservationSystem.Model.AssemblyInfoInputs.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/obj/Debug/net7.0/SimpleReservationSystem.Model.AssemblyInfo.cs
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/obj/Debug/net7.0/SimpleReservationSystem.Model.csproj.CoreCompileInputs.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/obj/Debug/net7.0/SimpleReservationSystem.Model.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/obj/Debug/net7.0/refint/SimpleReservationSystem.Model.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/obj/Debug/net7.0/SimpleReservationSystem.Model.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/SimpleReservationSystem.Model/obj/Debug/net7.0/ref/SimpleReservationSystem.Model.dll
