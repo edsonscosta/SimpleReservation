@@ -1,0 +1,15 @@
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/bin/Debug/net7.0/InscalleProject
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/bin/Debug/net7.0/InscalleProject.deps.json
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/bin/Debug/net7.0/InscalleProject.runtimeconfig.json
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/bin/Debug/net7.0/InscalleProject.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/bin/Debug/net7.0/InscalleProject.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/obj/Debug/net7.0/InscalleProject.csproj.AssemblyReference.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/obj/Debug/net7.0/InscalleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/obj/Debug/net7.0/InscalleProject.AssemblyInfoInputs.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/obj/Debug/net7.0/InscalleProject.AssemblyInfo.cs
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/obj/Debug/net7.0/InscalleProject.csproj.CoreCompileInputs.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/obj/Debug/net7.0/InscalleProject.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/obj/Debug/net7.0/refint/InscalleProject.dll
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/obj/Debug/net7.0/InscalleProject.pdb
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/obj/Debug/net7.0/InscalleProject.genruntimeconfig.cache
+/Users/edson.costa/Documents/Edson/Source/Inscalle/InscalleProject/InscalleProject/obj/Debug/net7.0/ref/InscalleProject.dll
